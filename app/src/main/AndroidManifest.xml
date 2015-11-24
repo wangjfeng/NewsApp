@@ -1,6 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.teyang.huzhe.newsapp">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
     <application
         android:name=".app.AppApplication"
         android:allowBackup="true"
@@ -9,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".ui.BaseActivity"
+            android:name=".ui.MainActivity"
             android:label="@string/title_activity_base"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>

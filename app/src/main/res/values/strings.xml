@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">HzFramework</string>
-    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_base">MainActivity</string>
+
+    <!-- actionbar -->
+    <string name="actionbar_back">返回</string>
+    <string name="actionbar_group">分组</string>
+    <string name="actionbar_all">全部</string>
+    <string name="actionbar_main_title">点点医生</string>
+    <string name="actionbar_selectHospital">选择医院</string>
+    <string name="action_bar_product_introduce">产品介绍</string>
+
+    <string name="community_post_reply_et_hint">回复</string>
+    <string name="title_activity_login">Sign in</string>
+
 </resources>
