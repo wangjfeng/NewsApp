@@ -1,7 +1,7 @@
 package com.teyang.huzhe.newsapp.retrofit.service;
 
-import com.teyang.huzhe.hzframework.app.model.Articles;
-import com.teyang.huzhe.hzframework.app.model.NewsContent;
+import com.teyang.huzhe.newsapp.model.Articles;
+import com.teyang.huzhe.newsapp.model.NewsContent;
 
 
 import retrofit.Call;

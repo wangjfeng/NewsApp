@@ -2,8 +2,8 @@ package com.teyang.huzhe.newsapp.retrofit;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import com.teyang.huzhe.hzframework.app.common.Constant;
-import com.teyang.huzhe.hzframework.app.retrofit.service.ApiService;
+import com.teyang.huzhe.newsapp.common.Constant;
+import com.teyang.huzhe.newsapp.retrofit.service.ApiService;
 
 import retrofit.GsonConverterFactory;
 import retrofit.Retrofit;

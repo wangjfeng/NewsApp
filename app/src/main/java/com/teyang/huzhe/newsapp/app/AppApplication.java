@@ -3,8 +3,8 @@ package com.teyang.huzhe.newsapp.app;
 import android.app.Application;
 import android.content.Context;
 
-import com.teyang.huzhe.hzframework.app.db.cache.DiskLruCacheHelper;
-import com.teyang.huzhe.hzframework.app.retrofit.RetrofitClient;
+import com.teyang.huzhe.newsapp.db.cache.DiskLruCacheHelper;
+import com.teyang.huzhe.newsapp.retrofit.RetrofitClient;
 
 /**
  * Created by g on 2015/11/6.

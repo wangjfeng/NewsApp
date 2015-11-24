@@ -6,9 +6,9 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
-import com.teyang.huzhe.hzframework.R;
-import com.teyang.huzhe.hzframework.app.app.AppApplication;
-import com.teyang.huzhe.hzframework.app.model.NewsContent;
+import com.teyang.huzhe.newsapp.R;
+import com.teyang.huzhe.newsapp.app.AppApplication;
+import com.teyang.huzhe.newsapp.model.NewsContent;
 
 import butterknife.ButterKnife;
 import butterknife.InjectView;

@@ -10,11 +10,11 @@ import android.support.v7.widget.Toolbar;
 import android.view.View;
 import android.widget.Toast;
 
-import com.teyang.huzhe.hzframework.R;
-import com.teyang.huzhe.hzframework.app.app.AppApplication;
-import com.teyang.huzhe.hzframework.app.model.Article;
-import com.teyang.huzhe.hzframework.app.adapter.ArticleListAdapter;
-import com.teyang.huzhe.hzframework.app.model.Articles;
+import com.teyang.huzhe.newsapp.R;
+import com.teyang.huzhe.newsapp.app.AppApplication;
+import com.teyang.huzhe.newsapp.model.Article;
+import com.teyang.huzhe.newsapp.adapter.ArticleListAdapter;
+import com.teyang.huzhe.newsapp.model.Articles;
 
 import java.util.ArrayList;
 import java.util.List;
